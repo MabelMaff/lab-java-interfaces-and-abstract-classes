@@ -117,5 +117,5 @@ System.out.println(list.get(1)); // → 10
 
 ## ✨ Autoría
 
-Ejercicio realizado como práctica de Java para interfaces, clases abstractas y estructuras dinámicas.
+Ejercicio realizado por mi como práctica de Java para interfaces, clases abstractas y estructuras dinámicas.
 
